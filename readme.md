@@ -17,3 +17,5 @@ https://seanprashad.com/leetcode-patterns/
 https://docs.google.com/document/d/1AmSFcHLOhjeo_506yLv1rFYdkoMU0IA2ODV_QzvrblA/edit?tab=t.0
 https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews
 
+SQL:
+https://www.codedex.io/sql
